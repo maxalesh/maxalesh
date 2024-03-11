@@ -7,6 +7,15 @@
 <p align="center">Actual info about me in my <a href='https://docs.google.com/document/d/1dRe1nO1zqXLpNk48wTkqdADxdqqii--hDKBnJzapREU/edit'>CV</a>
 </p>
 
+***
+
+<h4 align="center">Examples of my work:</h4>
+<p align="center"><a href='https://github.com/maxalesh/coffee-house'>Coffee house</a>
+</p>
+<p align="center"><a href='https://github.com/maxalesh/hangman'>Hangman</a>
+</p>
+
+
 <!--
 **maxalesh/maxalesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
