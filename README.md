@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Maxim</h1>
+<h3 align="center">Frontend developer, HSE student of Computer Science</h3>
+
+<p align="center">I'm currently studying at the frontend course from <a href='https://rs.school/js/'>RSschool</a>
+</p>
+
+<p align="center">Actual info about me in my <a href='https://docs.google.com/document/d/1dRe1nO1zqXLpNk48wTkqdADxdqqii--hDKBnJzapREU/edit'>CV</a>
+</p>
 
 <!--
 **maxalesh/maxalesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
