@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Maxim</h1>
-<h3 align="center">Frontend developer, HSE student of Computer Science</h3>
+<h3 align="center">Frontend developer, student of Computer Science</h3>
 
 <p align="center">I'm currently studying at the frontend course from <a href='https://rs.school/js/'>RSschool</a>
 </p>
