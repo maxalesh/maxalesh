@@ -4,9 +4,6 @@
 <p align="center">I'm currently studying at the frontend course from <a href='https://rs.school/js/'>RSschool</a>
 </p>
 
-<p align="center">Actual info about me in my <a href='https://docs.google.com/document/d/1dRe1nO1zqXLpNk48wTkqdADxdqqii--hDKBnJzapREU/edit'>CV</a>
-</p>
-
 ***
 
 <h4 align="center">Examples of my work:</h4>
