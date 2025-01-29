@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm Maxim</h1>
 <h3 align="center">Frontend developer, student of Computer Science</h3>
 
+<!--
 <p align="center">I'm currently studying at the frontend course from <a href='https://rs.school/js/'>RSschool</a>
 </p>
 
@@ -11,7 +12,7 @@
 </p>
 <p align="center"><a href='https://github.com/maxalesh/hangman'>Hangman</a>
 </p>
-
+-->
 
 <!--
 **maxalesh/maxalesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
